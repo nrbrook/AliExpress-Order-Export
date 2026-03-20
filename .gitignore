@@ -1,0 +1,11 @@
+.DS_Store
+.auth/
+exports/
+__pycache__/
+tests/__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.uv-cache/
+.venv/
+.playwright-browsers/
